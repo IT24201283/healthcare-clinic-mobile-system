@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Clinic Care",
+    "slug": "healthcare-clinic-mobile-system",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0F766E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F766E"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
